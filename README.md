@@ -1,11 +1,4 @@
 # Base-de-Dados-de-Streaming
-SGBD Relacional
-
-O Afonso é fixe!
-
-arroz
-
-outra vez arroz.
 
 Requisitos Funcionais para o projeto:
 
@@ -62,4 +55,3 @@ O que precisa de fazer? / Que ações deve suportar?
 - Gerenciamento de assinaturas pagas
 
 Deve ser facilmente verificável (suporta ou não o requisito)
-
