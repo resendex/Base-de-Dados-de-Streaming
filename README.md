@@ -56,6 +56,8 @@ O que precisa de fazer? / Que ações deve suportar / A Base de Dados suporta ou
 
 **Requisitos Não-Fucnionais**
 
+Que Desempenho deve ter o sistema? / Qual a sua Usabilidade e Segurança? / Serão mais difíceis de verificar que os Requisitos Funcionais
+
 _Desempenho_
 
 - Tempo de resposta para pesquisas inferior a 0.5
