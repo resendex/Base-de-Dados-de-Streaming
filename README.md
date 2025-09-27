@@ -82,6 +82,8 @@ _Segurança_
 
 - Armazenamento dos dados biométricos na Base de Dados
 
+- Apenas assinantes poderão modificar a sua informação sobre o planto que utilizam
+
 _Usabilidade_
 
 - O tempo de carregamento entre páginas ou secções deve ser inferior a 2 segundos
