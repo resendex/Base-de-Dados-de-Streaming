@@ -1,4 +1,4 @@
-# Base-de-Dados-de-Streaming
+# Projeto - Base de Dados de Streaming de Música
 
 Requisitos Funcionais:
 
