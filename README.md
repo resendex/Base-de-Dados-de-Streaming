@@ -56,7 +56,7 @@ O que precisa de fazer? / Que ações deve suportar / A Base de Dados suporta ou
 
 **Requisitos Não-Fucnionais**
 
-Que Desempenho deve ter o sistema? / Qual a sua Usabilidade e Segurança? / Serão mais difíceis de verificar que os Requisitos Funcionais
+Que Desempenho deve ter o sistema? / Qual a sua Usabilidade e Segurança? / Serão mais difíceis de verificar que os Requisitos Funcionais?
 
 _Desempenho_
 
