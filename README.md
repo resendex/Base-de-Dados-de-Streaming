@@ -56,13 +56,13 @@ O que precisa de fazer? / Que ações deve suportar / A Base de Dados suporta ou
 
 **Requisitos Não-Fucnionais**
 
-(_Desempenho_)
+_Desempenho_
 
 - Tempo de resposta para pesquisas inferior a 0.5
 
 - Buffer de reprodução impede interrupções em conexões com velocidade mínima de 1.5 Mbps
 
-(_Escalabilidade_)
+_Escalabilidade_
 
 - O sistema deve suportar um aumento de até 25% por mês na base dos utilizadores sem compromissos de desempenho
 
@@ -70,19 +70,19 @@ O que precisa de fazer? / Que ações deve suportar / A Base de Dados suporta ou
 
 - Tem de ter a capacidade de lidar com picos de acesso de até 80% dos utilizadores simultâneos durante lançamentos de artistas populares
 
-(_Confiabilidade_)
+_Confiabilidade_
 
 - O sistema deve estar disponível 99.9% do tempo com downtime máximo de 8.75 horas por ano para eventuais manutenções de qualidade
 
 - Em caso de falha do sistema não poderá haver qualquer perda ou fuga de dados
 
-(_Segurança_)
+_Segurança_
 
 - Proteção contra reprodução não autorizada que coloque em causa os direitos de autor (DRM)
 
 - Armazenamento dos dados biométricos na Base de Dados
 
-(_Usabilidade_)
+_Usabilidade_
 
 - O tempo de carregamento entre páginas ou secções deve ser inferior a 2 segundos
 
@@ -92,7 +92,7 @@ O que precisa de fazer? / Que ações deve suportar / A Base de Dados suporta ou
 
 - Interrupção contextual: pausar automaticamente a reprodução quando outras fontes de áudio/vídeo são ativadas no dispositivo
 
-(_Manutenção_)
+_Manutenção_
 
 - Atualizações do sistema não devem interromper o serviço por mais de 10 minutos
 
@@ -100,11 +100,11 @@ O que precisa de fazer? / Que ações deve suportar / A Base de Dados suporta ou
 
 - Tem de ter modularidade, ou seja, possibilitar a substituição de partes do sistema sem o afetar como um todo
 
-(_Compatibilidade_)
+_Compatibilidade_
 
 - Todas as APIs deverão estar documentadas para a integração com sistemas de terceiros
 
-(_Privacidade e Conformidade Legal_)
+_Privacidade e Conformidade Legal_
 
 - A Base de Dados tem de estar em total conformidade com GPDR, LGPD e outras legislações de proteção de dados
 
@@ -118,7 +118,7 @@ O que precisa de fazer? / Que ações deve suportar / A Base de Dados suporta ou
 
 - Os procedimentos de recuperação de falhas do sistema tem de estar documentado
 
-(_Eficiência_)
+_Eficiência_
 
 - Os recursos do servidor devem ser otimizados
 
